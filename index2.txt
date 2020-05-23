@@ -1,4 +1,25 @@
-<body class="has-animations" style="height: 100%;">
+<html lang="en-us" class="sr js"><head>
+
+        <!-- Meta -->
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+        <title>Chippewa</title>
+        <meta name="description" content="">
+
+        <!-- The compiled CSS file -->
+        <link rel="stylesheet" href="css/production.css">
+
+        <!-- Web fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+
+        <!-- favicon.ico. Place these in the root directory. -->
+        <link rel="shortcut icon" href="favicon.ico">
+
+    </head>
+
+    <body class="has-animations" style="height: 100%;">
 
 
     <!-- Header -->
@@ -120,11 +141,11 @@ We are old school. Feel free to take a second opinion from our agents before con
             <p>Bandra, Mumbai - 400050</p>
             
             <ul class="no-bullets list--inline mt1">
-                <li class="mr1"><a href="https://www.facebook.com/Lokaaz-109907314062641" class="link"><img class="icon" src="./img/facebook.svg" alt="Facebook"></a></li>
-                <li class="mr1"><a href="https://www.twitter.com" class="link"><img class="icon" src="./img/twitter.svg" alt="Twitter"></a></li>
-                
+                <li class="mr1"><a href="https://www.facebook.com" class="link"><img class="icon" src="/img/facebook.svg" alt="Facebook"></a></li>
+                <li class="mr1"><a href="https://www.twitter.com" class="link"><img class="icon" src="/img/twitter.svg" alt="Twitter"></a></li>
+                <li><a href="https://www.instagram.com" class="link"><img class="icon" src="/img/instagram.svg" alt="Instagram"></a></li>
             </ul>
-            <p>Lokaaz</p>
+            <p>  Lokaaz</p>
         </div>
     </footer>
 
@@ -137,4 +158,4 @@ We are old school. Feel free to take a second opinion from our agents before con
     
 
 
-</body>
+</body></html>
